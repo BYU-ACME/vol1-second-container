@@ -1,8 +1,6 @@
 binaryornot ~= 0.4.4
 jax>=0.6.2,<1
-matplotlib>=3.10.3,<4
 networkx>=3.5,<4
 numba>=0.61.2,<1
-numpy>=2.2.6,<3
 scipy>=1.16.0,<2
 sympy>=1.14.0,<2
